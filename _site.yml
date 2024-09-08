@@ -1,0 +1,22 @@
+name: "jeanneastier_website"
+title: "Jeanne Astier"
+theme: JA_website.css
+favicon: images/favicon.ico
+description: |
+  Jeanne Astier
+output_dir: "docs"
+base_url: https://jeanneastier.github.io/
+navbar:
+  # logo: "one_up.png"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
+      href: "cv/CV_JAstier.pdf"
+  # source_url: https://github.com/jeanneastier/jeanneastier_website
+  search: false
+output: distill::distill_article

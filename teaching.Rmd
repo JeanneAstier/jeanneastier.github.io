@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+## ENSAE Paris -- engineering program
+
+### [Univariate descriptive statistics](https://www.ensae.fr/en/courses/116)
+
+Undergraduate tutorials for prof. Thierry Kamionka
+
+Fall 2023, 2024
+
+
+### [Introduction to Microeconomics](https://www.ensae.fr/en/courses/1)
+
+Undergraduate tutorials for prof. Laurent Linnemer
+
+Spring 2024, 2025
