@@ -130,7 +130,7 @@ body {
   text-decoration: underline;
   cursor: pointer;
   width: fit-content;
-  font-size:18px;
+  font-size:30px;
   font-family: "Noto", serif;
 }
 
@@ -156,5 +156,6 @@ font-size:15px;
   font-size:16px;
   position: fixed;
   bottom: 0;
+  background-color: white;
 }
 
