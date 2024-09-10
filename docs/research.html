@@ -1933,43 +1933,43 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   html {
     /*-- Main font sizes --*/
     --title-size:      40px;
-    --body-size:       1rem;
-    --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
+    --body-size:       1.2rem;
+    --code-size:       16px;
+    --aside-size:      14px;
+    --fig-cap-size:    15px;
     /*-- Main font colors --*/
-    --title-color:     rgb(18, 85, 129);
-    --header-color:    rgb(10, 48, 73);
-    --body-color:      rgba(0, 0, 0, 0.8);
-    --aside-color:     rgba(0, 0, 0, 0.6);
-    --fig-cap-color:   rgba(0, 0, 0, 0.6);
-    --hover-color:     rgb(3, 26, 41);
+    --title-color:     rgba(120,176,117);
+    --header-color:    rgba(62,103,59);
+    --body-color:      rgba(0, 0, 0);
+    --aside-color:     rgba(0, 0, 0);
+    --fig-cap-color:   rgba(0, 0, 0);
+    --hover-color:     rgb(62,103,59);
     /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    "Lato", serif;
-    --body-font:       "Lora", serif;
-    --navbar-font:     "Lato", serif;  /* websites + blogs only */
+    --heading-font:    "Noto", serif;
+    --body-font:       "Noto", serif;
+    --navbar-font:     "Noto", serif;  /* websites + blogs only */
   }
   
   /*-- ARTICLE METADATA --*/
   d-byline {
-    --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
-    --body-size:       0.9rem;
-    --body-color:      rgba(0, 0, 0, 0.8);
+    --heading-size:    0.8rem;
+    --heading-color:   rgba(0, 0, 0);
+    --body-size:       1.1rem;
+    --body-color:      rgba(0, 0, 0);
   }
   
   /*-- ARTICLE TABLE OF CONTENTS --*/
   .d-contents {
-    --heading-size:    15px;
-    --contents-size:   11px;
+    --heading-size:    16px;
+    --contents-size:   13px;
   }
   
   /*-- ARTICLE APPENDIX --*/
   d-appendix {
-    --heading-size:    13px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
+    --heading-size:    14px;
+    --heading-color:   rgba(0, 0, 0);
     --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.5);
+    --text-color:      rgba(0, 0, 0);
   }
   
   /*-- WEBSITE HEADER + FOOTER --*/
@@ -1977,17 +1977,17 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   .distill-site-header {
     --font-family:      'Lora', serif;
-    --title-size:       21px;
-    --text-color:       rgba(0, 49, 60, 1);
-    --text-size:        18px;
-    --hover-color:      rgba(0, 49, 60, 0.4);
+    --title-size:       24px;
+    --text-color:       rgba(62,103,59);
+    --text-size:        20px;
+    --hover-color:      rgba(62,103,59);
     --bkgd-color:       rgba(255, 255, 255, 0.8);
     font-variant: small-caps;
   }
   
   .distill-site-footer {
-    --text-color:       rgba(10, 10, 10, 0.8);
-    --text-size:        15px;
+    --text-color:       rgba(0, 0, 0);
+    --text-size:        17px;
     --hover-color:      white;
     --bkgd-color:       rgba(240, 240, 240, 0.8); 
   }
@@ -1996,36 +1996,36 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* Add any additional CSS rules below                      */
   
   h1, h2, h3 {
-    color: rgba(0, 49, 60, 1);
+    color: rgba(62,103,59);
     font-variant: small-caps;
   }
   
   p {
-    color: rgba(0, 0, 0, 0.8);
-    font-size: 1.2em;
+    color: rgba(0, 0, 0);
+    font-size: 1.4em;
   }
   
   a {
-  	color: rgba(0, 49, 60, 1);
+  	color: rgba(62,103,59);
   }
   
   a:hover {
-  	color: rgba(0, 49, 60, 0.4);
+  	color: rgba(62,103,59);
   }
   
   /* Buttons on postcard */
   .btn-outline-dark {
-      color: rgba(0, 49, 60, 1);
-      border-color: rgba(0, 49, 60, 1);
+      color: rgba(62,103,59);
+      border-color: rgba(62,103,59);
   }
   
   .btn-outline-dark:hover {
-      background-color: rgba(0, 49, 60, 1);
+      background-color: rgba(62,103,59);
       color: white;
   }
   
   b, strong {
-     color: rgba(0, 49, 60, 1);
+     color: rgba(62,103,59);
   }
   
   /*
@@ -2045,25 +2045,32 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     text-decoration: underline;
     cursor: pointer;
     width: fit-content;
-    font-size:15px;
-    font-family: "Lora", serif;
+    font-size:18px;
+    font-family: "Noto", serif;
   }
   
   /* Hide abstracts */
   #abstract {
   display: none;
-  font-size:13px;
+  font-size:15px;
   }
   
-  .dark-blue-text {
-    color: rgb(10, 48, 73);
+  .dark-green-text {
+    color: rgb(62,103,59);
     font-weight: bold;
   }
   
   
-  .light-blue-text {
-    color: rgb(23, 109, 167);
+  .light-green-text {
+    color: rgb(120,176,117);
     font-weight: bold;
+  }
+  
+  .grey-text {
+    color: rgb(133, 143, 133);
+    font-size:16px;
+    position: fixed;
+    bottom: 0;
   }
   </style>
   <style type="text/css">
@@ -2284,17 +2291,10 @@ function hide_buttons(abstract) {
 }
 </script>
 <h2 id="work-in-progress">Work in progress</h2>
-<h3 id="weather-shocks-as-local-cost-shocks-estimating-their-effects-when-regions-trade">Weather Shocks as Local Cost Shocks: Estimating their Effects when Regions Trade</h3>
-<p>with <a href="https://sites.google.com/site/geoffreybarrows/home">Geoffrey Barrows</a>, <a href="https://sites.google.com/view/calel">Raphael Calel</a>, <a href="https://sites.google.com/site/heleneollivier/home">Hélène Ollivier</a></p>
+<p><span class="dark-green-text"> Weather Shocks as Local Cost Shocks: Estimating their Effects when Regions Trade</span>, with <a href="https://sites.google.com/site/geoffreybarrows/home">Geoffrey Barrows</a>, <a href="https://sites.google.com/view/calel">Raphael Calel</a>, <a href="https://sites.google.com/site/heleneollivier/home">Hélène Ollivier</a></p>
 <h2 id="policy-reports">Policy reports</h2>
-<h3 id="performance-énergétique-du-logement-et-consommation-dénergie-les-enseignements-des-données-bancaires">Performance énergétique du logement et consommation d’énergie : les enseignements des données bancaires</h3>
-<p>with Gabrielle Fack, Julien Fournel, Flavie Maisonneuve and Ariane Salem</p>
-<p>Focus #103, Conseil d’Analyse Economique, January 2024</p>
-<p>available <a href="https://www.cae-eco.fr/performance-energetique-du-logement-et-consommation-d-energie-les-enseignements-des-donnees-bancaires">here</a></p>
-<h3 id="mesurer-les-effets-hétérogènes-de-linflation-sur-les-ménages">Mesurer les effets hétérogènes de l’inflation sur les ménages</h3>
-<p>with Xavier Jaravel and Madeleine Péron</p>
-<p>Focus #99, Conseil d’Analyse Economique, July 2023</p>
-<p>available <a href="https://www.cae-eco.fr/mesurer-les-effets-heterogenes-de-linflation-sur-les-menages">here</a></p>
+<p><span class="dark-green-text">Performance énergétique du logement et consommation d’énergie : les enseignements des données bancaires</span>, with Gabrielle Fack, Julien Fournel, Flavie Maisonneuve and Ariane Salem – Focus #103, Conseil d’Analyse Economique, January 2024. Available <a href="https://www.cae-eco.fr/performance-energetique-du-logement-et-consommation-d-energie-les-enseignements-des-donnees-bancaires">here</a>.</p>
+<p><span class="dark-green-text"> Mesurer les effets hétérogènes de l’inflation sur les ménages</span>, with Xavier Jaravel and Madeleine Péron – Focus #99, Conseil d’Analyse Economique, July 2023. Available <a href="https://www.cae-eco.fr/mesurer-les-effets-heterogenes-de-linflation-sur-les-menages">here</a>.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
