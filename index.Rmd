@@ -18,5 +18,5 @@ My research lies at the intersection of <span class="light-green-text">internati
 
 <br>
 
-<span class="grey-text"> *Credits to [Maxime Chabriel](https://maximechabriel.github.io/) for the website.* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://sites.google.com/view/gaetanmenard/home">←</a> &#127804; 4100 webring &#127804; <a href="https://chloeantoine.fr">→</a>  </span> 
+<span class="grey-text"> *Credits to [Maxime Chabriel](https://maximechabriel.github.io/) for the website.* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://sites.google.com/view/gaetanmenard/home">←</a> &#127804; 4100 webring &#127804; <a href="https://archatelain.github.io/">→</a>  </span> 
 
