@@ -14,7 +14,7 @@ output: postcards::trestles
 
 I am a PhD student in <span class="dark-green-text">Economics</span> at [<span class="dark-green-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), under the supervision of [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/). 
 
-My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>, with a focus on the propagation of local climate shocks. I am particularly interested in <span class="light-green-text">maritime transportation</span>.
+My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>, with a focus on the propagation of local climate shocks. I am particularly interested in maritime transportation.
 
 <br>
 
