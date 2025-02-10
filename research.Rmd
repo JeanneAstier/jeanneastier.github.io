@@ -30,11 +30,15 @@ function hide_buttons(abstract) {
 
 <span class="dark-green-text"> Climate Change Effects on Ports in the Shipping Network </span>
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <span class="dark-green-text"> Weather Shocks as Local Cost Shocks: Estimating their Effects when Regions Trade</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home), [Raphael Calel](https://sites.google.com/view/calel), [Hélène Ollivier](https://sites.google.com/site/heleneollivier/home)
 =======
 <span class="dark-green-text"> Climate Change Effects on Ports in the Shipping Network </span>
 >>>>>>> 798ea2cdd48105dc67e12f934a620033df9b7816
+=======
+<span class="dark-green-text"> Weather Shocks as Local Cost Shocks: Estimating their Effects when Regions Trade</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home), [Raphael Calel](https://sites.google.com/view/calel), [Hélène Ollivier](https://sites.google.com/site/heleneollivier/home)
+>>>>>>> Stashed changes
 
 
 ## Policy reports 
