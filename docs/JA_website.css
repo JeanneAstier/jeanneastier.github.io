@@ -140,6 +140,12 @@ display: none;
 font-size:15px;
 }
 
+.abstract-text {
+  color: rgb(0, 0, 0);
+  font-size:14px;
+  }
+
+
 .dark-green-text {
   color: rgb(62,103,59);
   font-weight: bold;

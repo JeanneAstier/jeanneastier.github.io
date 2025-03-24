@@ -14,11 +14,24 @@ output: postcards::trestles
 
 I am a PhD student in <span class="dark-green-text">Economics</span> at [<span class="dark-green-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), under the supervision of [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/). 
 
-<<<<<<< Updated upstream
-My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>, with a focus on the propagation of local climate shocks. I am particularly interested in maritime transportation.
-=======
 My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>, with a focus on the propagation of local climate shocks. I am particularly interested in <span class="light-green-text">maritime transportation</span>.
->>>>>>> Stashed changes
+
+
+<br>
+
+New: applications are open to the [<span class="dark-green-text">3rd Globalization, Shipping, and Trade workshop</span>](https://www.parisschoolofeconomics.eu/en/events/globalization-shipping-and-trade-2/) at PSE on October 16, 2025! 
+
+<br>
+
+Incoming presentations and workshops: 
+
+<ul>
+  <li>Columbia Interdisciplinary Ph.D. Workshop in Sustainable Development ([IPWSD](https://blogs.cuit.columbia.edu/sdds/ipwsd/)) 2025, April 4-5</li>
+  <li>PSE [Doctorissimes](https://sites.google.com/site/doctorissimes3/20th-doctorissimes-2025) 2025, April 10-11</li>
+  <li>LSE Workshop for Early Career Women in Economic Geography and Spatial Economics, May 12-13</li>
+  <li>Warwick [13th Economics PhD Conference](https://sites.google.com/view/warwick-econ-phd-conference), June 3-5
+</ul>  
+
 
 <br>
 

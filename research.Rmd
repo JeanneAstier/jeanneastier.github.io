@@ -28,9 +28,19 @@ function hide_buttons(abstract) {
 
 ## Work in progress
 
-<span class="dark-green-text"> Climate Change Effects on Ports in the Shipping Network </span>
 
-<span class="dark-green-text"> Weather Shocks as Local Cost Shocks: Estimating their Effects when Regions Trade</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home), [Raphael Calel](https://sites.google.com/view/calel), [Hélène Ollivier](https://sites.google.com/site/heleneollivier/home)
+<span class="dark-green-text"> Quantifying Climate Damages When Regions Trade: A Structural Gravity Approach</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home), [Raphael Calel](https://sites.google.com/view/calel), [Hélène Ollivier](https://sites.google.com/site/heleneollivier/home)
+
+<button class="button_link" role="button" onclick="hide_buttons('abstract_trade_temperature')">Abstract</button>
+<div id="abstract_trade_temperature" style="display:none;">
+<span class="abstract-text">This paper presents a method for estimating treatment effects of local climate shocks when regions trade with each other. Because of spillovers induced by trade flows, comparing the evolution of outcomes between pre-shock and post-shock periods in regions exposed versus unexposed to local shocks leads to a biased estimate of treatment effect. We model these across-region dependencies using standard assumptions from international trade theory. We use our model-consistent estimation strategy to revisit the literature on the evaluation of impacts from climate change onto country-level gross output using year-to-year variation in temperature and precipitation and a counterfactual scenario where the observed warming from 1991 to 2019 would not have occurred.</span>
+</div> 
+
+<br />
+
+<span class="dark-green-text"> Climate induced Congestion in Ports: General Equilibrium Consequences on Transportation and Trade </span>
+
+
 
 
 ## Policy reports 
@@ -39,5 +49,6 @@ function hide_buttons(abstract) {
 
 <span class="dark-green-text">Performance énergétique du logement et consommation d'énergie : les enseignements des données bancaires</span>, with Gabrielle Fack, Julien Fournel, Flavie Maisonneuve and Ariane Salem -- Focus #103, Conseil d’Analyse Economique, January 2024. Available [here](https://www.cae-eco.fr/performance-energetique-du-logement-et-consommation-d-energie-les-enseignements-des-donnees-bancaires).
 
+<br />
 
 <span class="dark-green-text"> Mesurer les effets hétérogènes de l’inflation sur les ménages</span>, with Xavier Jaravel and Madeleine Péron -- Focus #99, Conseil d’Analyse Economique, July 2023. Available [here](https://www.cae-eco.fr/mesurer-les-effets-heterogenes-de-linflation-sur-les-menages).
