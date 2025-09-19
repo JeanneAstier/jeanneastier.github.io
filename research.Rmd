@@ -57,3 +57,10 @@ function hide_buttons(abstract) {
 <br />
 
 <span class="dark-green-text"> Mesurer les effets hétérogènes de l’inflation sur les ménages</span>, with Xavier Jaravel and Madeleine Péron -- Focus #99, Conseil d’Analyse Economique, July 2023. Available [here](https://www.cae-eco.fr/mesurer-les-effets-heterogenes-de-linflation-sur-les-menages).
+
+
+## Academic presentations
+
+[<span class="dark-green-text">2025</span>] CREST PhD seminar, Columbia IPWSD, PSE Doctorissimes, LSE Workshop for Early Career Women In Economic Geography and Spatial Economics, LSE Environment Camp, Warwick PhD Conference, EAERE Annual Conference, Workshop in International Economic Networks, JIE Summer School
+<br />
+[<span class="dark-green-text">2024</span>] FAERE PhD workshop, EAERE Early Career workshop, CREST PhD workshop
