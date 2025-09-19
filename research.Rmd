@@ -40,6 +40,11 @@ function hide_buttons(abstract) {
 
 <span class="dark-green-text"> Climate induced Congestion in Ports: General Equilibrium Consequences on Transportation and Trade </span>
 
+<button class="button_link" role="button" onclick="hide_buttons('abstract_ports')">Abstract</button>
+<div id="abstract_ports" style="display:none;">
+<span class="abstract-text">This paper studies the global impact of climate change effects on ports and its consequences on international trade, in the context of the shipping network. Leveraging detailed shipping and weather data, I estimate how sea weather shocks affect ports efficiency and transportation costs. I then include this effect in a model of international trade with a shipping network, featuring port congestion. This model can be used to estimate counterfactuals with climate change projections of sea weather: given the spatially heterogeneous evolution of weather shocks, I can quantify the global effects of climate change on transportation and trade through the port channel, as well as their spatial distribution.</span>
+</div> 
+
 
 
 

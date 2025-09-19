@@ -12,14 +12,16 @@ links:
 output: postcards::trestles
 ---
 
-I am a PhD student in <span class="dark-green-text">Economics</span> at [<span class="dark-green-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), under the supervision of [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/). 
+I am a PhD student in <span class="dark-green-text">Economics</span> at [<span class="dark-green-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), advised by [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/) and [Florian Grosset-Touba](https://www.fgrosset.com/). 
 
 My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>, with a focus on the propagation of local climate shocks. I am particularly interested in <span class="light-green-text">maritime transportation</span>.
+
+From January to June 2026, I will be visiting Berkeley Agricultural & Resource Economics department, hosted by [Thibault Fally](https://fally.are.berkeley.edu/index.html).
 
 
 <br>
 
-New: I am part of the scientific committe for the [<span class="dark-green-text">3rd Globalization, Shipping, and Trade workshop</span>](https://www.parisschoolofeconomics.eu/en/events/globalization-shipping-and-trade-2/) at PSE on October 16, 2025!
+New: Register to attend the [<span class="dark-green-text">3rd Globalization, Shipping, and Trade workshop</span>](https://www.parisschoolofeconomics.eu/en/events/globalization-shipping-and-trade-2/) at PSE on October 16, 2025!
 <br>
 
 Incoming presentations and workshops: 
