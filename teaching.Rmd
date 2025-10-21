@@ -4,12 +4,17 @@ title: "Teaching"
 
 ## ENSAE Paris -- engineering program
 
-### [Univariate descriptive statistics](https://www.ensae.fr/en/courses/116)
+### [Microeconomics 1](https://www.ensae.fr/en/courses/5842-microeconomie-1)
 
-Undergraduate tutorials for prof. Thierry Kamionka
+Graduate tutorials for prof. Philippe Choné
 
-Fall 2023, 2024
+Fall 2025
 
+### [Introduction to Environmental Economics](https://www.ensae.fr/en/courses/5220)
+
+Graduate tutorials for prof. Florian Grosset-Touba
+
+Spring 2025
 
 ### [Introduction to Microeconomics](https://www.ensae.fr/en/courses/1)
 
@@ -17,8 +22,9 @@ Undergraduate tutorials for prof. Laurent Linnemer
 
 Spring 2024, 2025
 
-### [Introduction to Environmental Economics](https://www.ensae.fr/en/courses/5220)
 
-Graduate tutorials for prof. Florian Grosset-Touba
+### [Univariate descriptive statistics](https://www.ensae.fr/en/courses/116)
 
-Spring 2025
+Undergraduate tutorials for prof. Thierry Kamionka
+
+Fall 2023, 2024
