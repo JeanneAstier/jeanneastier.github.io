@@ -16,7 +16,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
-      href: "cv/CVJAstier.pdf"
+      href: "cv/CV_JAstier.pdf"
   # source_url: https://github.com/jeanneastier/jeanneastier_website
   search: false
 output: distill::distill_article
