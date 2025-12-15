@@ -18,7 +18,7 @@ My research lies at the intersection of <span class="light-green-text">internati
 
 From January to June 2026, I will be visiting Berkeley Agricultural & Resource Economics department, hosted by [Thibault Fally](https://fally.are.berkeley.edu/index.html).
 
-
+<!--
 <br>
 
 Incoming presentations: 
@@ -27,7 +27,7 @@ Incoming presentations:
   <li>[Crest-Insee workshop](https://crest.science/event/4th-crest-insee-workshop/), November 18</li>
   <li>[CEPR Paris Symposium](https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2025) (poster), December 6</li>
 </ul>  
-
+-->
 
 <br>
 

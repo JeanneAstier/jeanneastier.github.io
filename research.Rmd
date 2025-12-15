@@ -63,7 +63,7 @@ function hide_buttons(abstract) {
 
 ## Academic presentations
 
-[<span class="dark-green-text">2025</span>] CREST PhD seminar, Columbia IPWSD, PSE Doctorissimes, LSE Workshop for Early Career Women In Economic Geography and Spatial Economics, LSE Environment Camp, Warwick PhD Conference, EAERE Annual Conference, Workshop in International Economic Networks, JIE Summer School, LSE Environment Week, Kiel trade talk, PSE Globalization Shipping and Trade workshop
+[<span class="dark-green-text">2025</span>] CREST PhD seminar, Columbia IPWSD, PSE Doctorissimes, LSE Workshop for Early Career Women In Economic Geography and Spatial Economics, LSE Environment Camp, Warwick PhD Conference, EAERE Annual Conference, Workshop in International Economic Networks, JIE Summer School, LSE Environment Week, Kiel trade talk, PSE Globalization Shipping and Trade workshop, Crest-Insee workshop, CEPR Paris Symposium (poster)
 <br />
 <br>
 [<span class="dark-green-text">2024</span>] FAERE PhD workshop, EAERE Early Career workshop, CREST PhD workshop
