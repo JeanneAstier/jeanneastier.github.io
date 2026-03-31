@@ -63,7 +63,7 @@ function hide_buttons(abstract) {
 
 ## Academic presentations
 
-[<span class="dark-green-text">2026</span>] IP Paris Seas and Ocean forum, Berkeley Trade lunch 
+[<span class="dark-green-text">2026</span>] IP Paris Seas and Ocean forum, Berkeley Trade lunch, Berkeley Climate Change Economics Lunch
 <br />
 <br>
 
