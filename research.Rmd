@@ -26,10 +26,12 @@ function hide_buttons(abstract) {
 }
 </script>
 
-## Work in progress
+
+## Working paper 
 
 
-<span class="dark-green-text"> Quantifying Climate Damages When Regions Trade: A Structural Gravity Approach</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home), [Raphael Calel](https://sites.google.com/view/calel), [Hélène Ollivier](https://sites.google.com/site/heleneollivier/home)
+<span class="dark-green-text"> Quantifying Climate Damages When Regions Trade: A Structural Gravity Approach</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home), [Raphael Calel](https://sites.google.com/view/calel), [Hélène Ollivier](https://sites.google.com/site/heleneollivier/home). Available [here](https://www.ifo.de/DocDL/cesifo1_wp12602.pdf).
+
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_trade_temperature')">Abstract</button>
 <div id="abstract_trade_temperature" style="display:none;">
@@ -37,6 +39,10 @@ function hide_buttons(abstract) {
 </div> 
 
 <br />
+
+
+## Work in progress
+
 
 <span class="dark-green-text"> Climate induced Congestion in Ports: General Equilibrium Consequences on Transportation and Trade </span>
 
