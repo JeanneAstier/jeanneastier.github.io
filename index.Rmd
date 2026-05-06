@@ -32,10 +32,10 @@ From January to June 2026, I am visiting Berkeley Agricultural & Resource Econom
 Incoming presentations: 
 
 <ul>
-  <li>[Midwest International Trade & Theory Conference](https://sites.google.com/view/midwesttradetheoryconference), April 10-12, Ohio State </li>
-  <li>[Rocky Mountain Empirical Trade Conference](https://freit.org/RMET/2026/index.php), May 15-17, Banff </li>
+<li>[Rocky Mountain Empirical Trade Conference](https://freit.org/RMET/2026/index.php), May 15-17, Banff </li>
   <li>[15th Energy and Climate Economics Conference](https://www.tse-fr.eu/conferences/2026-15th-energy-and-climate-economics-conference?lang=en), June 4-5, Toulouse </li>
-
+<li>[25th RIEF Doctoral Meeting](https://sites.google.com/site/riefnetwork/previous-editions/rief-paris-2026?authuser=0)- June 11-12, Université Paris-Saclay </li>
+<li>[Second Paris-Saclay Conference on Trade and the Environment](https://tradeenv2026.sciencesconf.org/?lang=en)- June 15-16, AgroParisTech, Palaiseau </li>
 </ul>  
 
 
