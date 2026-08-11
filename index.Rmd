@@ -1,6 +1,6 @@
 ---
 title: "Jeanne Astier"
-image: "images/photo_site_round.jpg"
+image: "images/photo_site_round_new.jpg"
 favicon: images/favicon.ico
 angle: 130
 site: distill::distill_website
@@ -16,31 +16,13 @@ I am a PhD student in <span class="dark-green-text">Economics</span> at [<span c
 
 My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>, with a focus on the propagation of local climate shocks. I am particularly interested in <span class="light-green-text">maritime transportation</span>.
 
-From January to June 2026, I am visiting Berkeley Agricultural & Resource Economics department, hosted by [Thibault Fally](https://fally.are.berkeley.edu/index.html).
+In Spring 2026, I visited Berkeley Agricultural & Resource Economics department, hosted by [Thibault Fally](https://fally.are.berkeley.edu/index.html).
 
-
-<br>
-
-<span class="dark-green-text">NEW</span>: I'm thrilled to share that I will be joining Dartmouth as a Globalization Ph.D. Fellow in Fall 2026! &#127810;
-
+In Fall 2026, I will be visiting Dartmouth as a [Globalization Ph.D. Fellow](https://globalization.dartmouth.edu/programs/globalization-phd-fellows) &#127810;
 
 <br>
 
-<span class="dark-green-text">NEW</span>: the working paper of [Quantifying Climate Damages When Regions Trade: A Structural Gravity Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6540449
-), with Geoffrey Barrows, Raphael Calel, and Hélène Ollivier, is out! 
-
-
-<br>
-
-
-Incoming presentations: 
-
-<ul>
-<li>[Rocky Mountain Empirical Trade Conference](https://freit.org/RMET/2026/index.php), May 15-17, Banff </li>
-  <li>[15th Energy and Climate Economics Conference](https://www.tse-fr.eu/conferences/2026-15th-energy-and-climate-economics-conference?lang=en), June 4-5, Toulouse </li>
-<li>[25th RIEF Doctoral Meeting](https://sites.google.com/site/riefnetwork/previous-editions/rief-paris-2026?authuser=0)- June 11-12, Université Paris-Saclay </li>
-<li>[Second Paris-Saclay Conference on Trade and the Environment](https://tradeenv2026.sciencesconf.org/?lang=en)- June 15-16, AgroParisTech, Palaiseau </li>
-</ul>  
+<span class="dark-green-text">I will be on the 2026-2027 job market!</span>
 
 
 <br>
