@@ -14,15 +14,16 @@ output: postcards::trestles
 
 I am a PhD student in <span class="dark-green-text">Economics</span> at [<span class="dark-green-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), advised by [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/) and [Florian Grosset-Touba](https://www.fgrosset.com/). 
 
-My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>, with a focus on the propagation of local climate shocks. I am particularly interested in <span class="light-green-text">maritime transportation</span>.
+My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>. I study how the effects of heterogeneous changes in climate propagate through trade and transportation networks and redistribute losses across regions, with a focus on <span class="light-green-text">maritime shipping</span>. I combine reduced-form and structural approaches: reduced-form evidence tells me which mechanisms to model, while structural models clarify what reduced-form estimates identify when regions are linked by spillovers.
 
-In Spring 2026, I visited Berkeley Agricultural & Resource Economics department, hosted by [Thibault Fally](https://fally.are.berkeley.edu/index.html).
 
-In Fall 2026, I will be visiting Dartmouth as a [Globalization Ph.D. Fellow](https://globalization.dartmouth.edu/programs/globalization-phd-fellows) &#127810;
+In Spring 2026, I visited the Department of Agricultural & Resource Economics at UC Berkeley, hosted by [Thibault Fally](https://fally.are.berkeley.edu/index.html).
+
+I am currently visiting Dartmouth as a [Globalization Ph.D. Fellow](https://globalization.dartmouth.edu/programs/globalization-phd-fellows) during Fall 2026 &#127810;
 
 <br>
 
-<span class="dark-green-text">I will be on the 2026-2027 job market!</span>
+<span class="dark-green-text">I am on the 2026-2027 job market!</span>
 
 
 <br>
