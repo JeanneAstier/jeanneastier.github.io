@@ -27,41 +27,61 @@ function hide_buttons(abstract) {
 </script>
 
 
-## Working paper 
+## Working papers
 
 
-<span class="dark-green-text"> [Quantifying Climate Damages When Regions Trade: A Structural Gravity Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6540449)</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home), [Raphael Calel](https://sites.google.com/view/calel), [Hélène Ollivier](https://sites.google.com/site/heleneollivier/home). 
+<span class="light-green-text">[JMP]</span> <span class="dark-green-text"> [Climate induced Congestion in Ports: General Equilibrium Consequences on Transportation and Trade](https://www.dropbox.com/scl/fi/294ixqry470z5xa9fbut8/JMP_JAstier.pdf?rlkey=kbetyrmdmnyfiy96sjlp1bwmt&st=zy2bb1dx&e=1&dl=0)</span> 
 
 <button class="button_link" role="button" onclick="hide_buttons('abstract_trade_temperature')">Abstract</button>
 <div id="abstract_trade_temperature" style="display:none;">
-<span class="abstract-text">This paper presents a method for estimating treatment effects of local climate shocks when regions trade with each other. Because trade creates spillovers, comparing the change in outcomes of regions with different exposure to shocks leads to biased estimates. We model these between-region spillovers using standard assumptions from international trade theory, and develop a model-consistent strategy for estimating key parameters and deriving counterfactuals. We use our estimation strategy to revisit the literature on the impact of climate change on gross output. We find that accounting for trade spillovers yields substantially larger climate damage projections.</span>
+<span class="abstract-text">
+How does climate change affect the cost of international shipping? I show that the maritime shipping network amplifies local port disruptions into large global costs. Rising sea levels threaten port operations, and heterogeneous climate dynamics make the threat uneven across ports. Because container shipping operates as a global network, the damage propagates well beyond the ports directly exposed. I combine high-frequency satellite shipping data with sea weather observations to estimate how high water levels disrupt port operations. I embed these estimates in a general equilibrium model of international trade with a shipping network. At ports, higher water levels reduce capacity and trigger congestion, so costs rise with traffic. On shipping links, by contrast, economies of scale from cargo pooling make costs fall with traffic and rationalize the network's sparsity -- allowing the network structure to respond endogenously to changes in climate conditions. Sea level rise projections imply that ports will face water level increases of up to 1.3 meters by the end of the century. I find that such increases raise trade costs by 4.6% to 7.2% on average across country pairs and lower global welfare by 1.4% to 2.0%, depending on the climate scenario. These results add a new component to the climate damage function: the sensitivity of trade costs to climate change.  In a sparse and concentrated shipping network, the direct effect of sea level rise is dominated by reallocation forces: a country's welfare loss depends more on its position in the trade network than on the exposure of its own ports.
+</span>
+</div> 
+
+
+<br />
+
+<span class="dark-green-text"> [Quantifying Climate Damages When Regions Trade: A Structural Gravity Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6540449)</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home), [Raphael Calel](https://sites.google.com/view/calel), and [Hélène Ollivier](https://heleneollivier.github.io/). 
+
+<button class="button_link" role="button" onclick="hide_buttons('abstract_trade_temperature')">Abstract</button>
+<div id="abstract_trade_temperature" style="display:none;">
+<span class="abstract-text">
+This paper presents a method for estimating treatment effects of local climate shocks when regions trade with each other. Because trade creates spillovers, comparing the change in outcomes of regions with different exposure to shocks leads to biased estimates. We model these between-region spillovers using standard assumptions from international trade theory, and develop a model-consistent strategy for estimating key parameters and deriving counterfactuals. We use our estimation strategy to revisit the literature on the impact of climate change on gross output. We find that accounting for trade spillovers yields substantially larger climate damage projections.
+</span>
 </div> 
 
 <br />
+
+
+
+
 
 
 ## Work in progress
 
 
-<span class="light-green-text">[JMP]</span> <span class="dark-green-text"> Climate induced Congestion in Ports: General Equilibrium Consequences on Transportation and Trade </span>
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_ports')">Abstract</button>
-<div id="abstract_ports" style="display:none;">
-<span class="abstract-text">This paper studies how climate change affects international trade through its impact on ports and maritime transportation. Rising sea levels threaten port operations in a spatially heterogeneous way, driven by geographically uneven climate dynamics. Because container shipping operates as a global network, these local disruptions propagate globally, beyond the ports directly exposed. I combine high-frequency satellite shipping data with sea weather observations to estimate how high water levels disrupt port operations and thereby raise transportation costs. I embed these estimates in a general equilibrium model of international trade with a shipping network. The model features port congestion, driven by traffic and climate conditions, that raises shipping costs. I introduce economies of scale in shipping,
-arising from cargo pooling, to rationalize the network’s sparsity; the network structure then responds endogenously to changes in climate conditions, amplifying their effects. Century-end sea level rise projections indicate that ports will face water level increases of up to 1.3 meters by 2100. I find that it leads to a widespread rise of transportation costs, by 3.5% to 5.9% on trade-weighted average across country pairs, and a 1.0% to 1.6% reduction in global welfare, depending on the climate scenario. These results uncover a new component of the climate damage function: the sensitivity of trade costs to climate change. I also find that, as a consequence of economies of scale and the resulting endogenous network structure, general equilibrium forces dominate the direct shock: a country’s welfare loss depends more on its position within the trade network than on the exposure of its own ports.</span>
-</div> 
+<span class="dark-green-text"> Monadic Cost Shifters in Gravity Models: A New Estimator with an Application to Environmental Regulation</span>, with [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/home) and [Hélène Ollivier](https://heleneollivier.github.io/). 
+
 
 <br />
 
+<span class="dark-green-text">Tonnage Taxation in the Global Shipping Industry </span>, with [Paul-Emmanuel Chouc](https://sites.google.com/view/paul-emmanuel-chouc) and [Sandra Poncet](https://sandraponcet.weebly.com/). 
 
+<br />
+
+<span class="dark-green-text">Maritime Shipping and Ocean Biodiversity </span>, with [Chloé Antoine](https://www.chloeantoine.fr/). 
+
+<br />
 
 ## Policy reports 
 
-<span class="dark-green-text">Housing Energy Performance and Energy Consumption: Insights from Banking Data</span>, with Gabrielle Fack, Julien Fournel, Flavie Maisonneuve and Ariane Salem -- Focus #103, Conseil d’Analyse Economique, January 2024. Available [here](https://www.cae-eco.fr/performance-energetique-du-logement-et-consommation-d-energie-les-enseignements-des-donnees-bancaires) (in French).
+<span class="dark-green-text">[Housing Energy Performance and Energy Consumption: Insights from Banking Data](https://www.cae-eco.fr/performance-energetique-du-logement-et-consommation-d-energie-les-enseignements-des-donnees-bancaires)</span>, with Gabrielle Fack, Julien Fournel, Flavie Maisonneuve and Ariane Salem -- Focus #103, Conseil d’Analyse Economique, 2024 (in French)
 
 <br />
 
-<span class="dark-green-text"> Measuring the heterogeneous effects of inflation on households</span>, with Xavier Jaravel and Madeleine Péron -- Focus #99, Conseil d’Analyse Economique, July 2023. Available [here](https://www.cae-eco.fr/mesurer-les-effets-heterogenes-de-linflation-sur-les-menages) (in French).
+<span class="dark-green-text"> [Measuring the heterogeneous effects of inflation on households](https://www.cae-eco.fr/mesurer-les-effets-heterogenes-de-linflation-sur-les-menages) </span>, with Xavier Jaravel and Madeleine Péron -- Focus #99, Conseil d’Analyse Economique, 2023 (in French)
 
 <br />
 
